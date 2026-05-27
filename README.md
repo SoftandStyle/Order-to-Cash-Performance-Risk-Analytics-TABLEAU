@@ -7,8 +7,7 @@
 This project is an enterprise-grade analytics tool designed to monitor and mitigate capital exposure (outstanding receivables). The dashboard transforms raw billing data into a strategic decision-making engine, enabling financial leadership (CFOs / Financial Controllers) to identify liquidity risk hotspots and take proactive measures before debts become uncollectible.
 
 ## 🖼️ Dashboard Preview
-> **Note:** Below is the final view of the O2C Dashboard. 
-*(Upload your final screenshot to your repo and replace `image_name.png` with your actual file name)*
+
 
 ![O2C Dashboard](image_dashboard.png)
 
