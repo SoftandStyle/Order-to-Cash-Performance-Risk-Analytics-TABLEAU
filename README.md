@@ -10,7 +10,7 @@ This project is an enterprise-grade analytics tool designed to monitor and mitig
 > **Note:** Below is the final view of the O2C Dashboard. 
 *(Upload your final screenshot to your repo and replace `image_name.png` with your actual file name)*
 
-![O2C Dashboard](image_name.png)
+![O2C Dashboard](image_dashboard.png)
 
 ## 🎯 The Business Problem
 Cash flow bottlenecks are a primary driver of operational failure. The organization required absolute visibility into three critical areas:
